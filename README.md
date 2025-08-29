@@ -34,7 +34,7 @@ https://public.tableau.com/app/profile/ayman.islam/viz/Book1_17554702610350/Dash
 
 ---
 
-## How I built it (quick)
+## How I built it
 
 - **Python (Jupyter):** merged store metadata, added seasonal features (Month/DOW sine–cosine), basic EDA, exported tidy KPI CSVs.
 - **Tableau:** each KPI CSV is a separate data source; built 4 core worksheets and assembled one dashboard with filters.
